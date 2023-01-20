@@ -14,7 +14,10 @@ This is a ToDoList which let you keep all your tasks organized at one place.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Purpose of The Project
 
+Purpose of project is to make a project using React.js to better understand how
+things actually works.
 
 ### Built With
 
