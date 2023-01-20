@@ -23,7 +23,6 @@ This is a ToDoList which let you keep all your tasks organized at one place.
 * HTML
 * CSS
 * React.js
-  Features used in React.js
   * React Mapping
   * React Components
   * React Spread Operator
